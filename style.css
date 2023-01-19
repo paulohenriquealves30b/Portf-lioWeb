@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+    font-family: monospace;
+}
+
+.descrição {
+    background-color: rgb(231, 214, 190);
+    font-size: 13px;
+}
+
+.resido {
+    background-color: rgb(231, 214, 190);
+    font-size: 12px;
+    line-height: 100%;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+}
+
+h2 {
+    background-color: rgb(231, 214, 190);
+    font-size: 20px;
+}
